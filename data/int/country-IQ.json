@@ -19388,5 +19388,26 @@
   "Deaths_Per_Cases": 0.01,
   "Deaths_Per_Cases_Last_Week": 0.002,
   "Deaths_Per_Million": 658
+ },
+ {
+  "Cases": 2448484,
+  "Cases_Last_Week": 10383,
+  "Cases_Last_Week_7Day_Percent": -49.1,
+  "Cases_Last_Week_Per_100000": 27.0,
+  "Cases_Last_Week_Per_Million": 270,
+  "Cases_New": 1252,
+  "Cases_New_Per_Million": 32,
+  "Cases_Per_Million": 63706,
+  "Date": "2022-08-03",
+  "Days_Since_2nd_Death": 882,
+  "Deaths": 25321,
+  "Deaths_Last_Week": 17,
+  "Deaths_Last_Week_7Day_Percent": -37.0,
+  "Deaths_Last_Week_Per_Million": 0.44,
+  "Deaths_New": 3,
+  "Deaths_New_Per_Million": 0.078,
+  "Deaths_Per_Cases": 0.01,
+  "Deaths_Per_Cases_Last_Week": 0.002,
+  "Deaths_Per_Million": 658
  }
 ]
