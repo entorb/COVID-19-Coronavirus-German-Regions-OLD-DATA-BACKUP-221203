@@ -19650,7 +19650,6 @@
   "Cases_New": 9893,
   "Cases_New_Per_Million": 163,
   "Cases_Per_Million": 355931,
-  "Country": "Italy",
   "Date": "2022-08-15",
   "Days_Since_2nd_Death": 905,
   "Deaths": 174102,
@@ -19661,7 +19660,29 @@
   "Deaths_New_Per_Million": 0.695,
   "Deaths_Per_Cases": 0.008,
   "Deaths_Per_Cases_Last_Week": 0.005,
-  "Deaths_Per_Million": 2880,
+  "Deaths_Per_Million": 2880
+ },
+ {
+  "Cases": 21518365,
+  "Cases_Last_Week": 149885,
+  "Cases_Last_Week_7Day_Percent": -38.5,
+  "Cases_Last_Week_Per_100000": 248.0,
+  "Cases_Last_Week_Per_Million": 2480,
+  "Cases_New": 8941,
+  "Cases_New_Per_Million": 147,
+  "Cases_Per_Million": 356079,
+  "Country": "Italy",
+  "Date": "2022-08-16",
+  "Days_Since_2nd_Death": 906,
+  "Deaths": 174172,
+  "Deaths_Last_Week": 746,
+  "Deaths_Last_Week_7Day_Percent": -27.5,
+  "Deaths_Last_Week_Per_Million": 12.34,
+  "Deaths_New": 70,
+  "Deaths_New_Per_Million": 1.158,
+  "Deaths_Per_Cases": 0.008,
+  "Deaths_Per_Cases_Last_Week": 0.005,
+  "Deaths_Per_Million": 2882,
   "Population": 60317546
  }
 ]
