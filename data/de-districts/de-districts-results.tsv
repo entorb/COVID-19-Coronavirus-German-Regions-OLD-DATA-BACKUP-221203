@@ -9,7 +9,7 @@ Nordfriesland (Kreis)	Schleswig-Holstein	167147	61357	177	367084	1058	4.2	83.3
 Ostholstein (Kreis)	Schleswig-Holstein	201487	61474	122	305101	605	6.8	84.1	41.2
 Pinneberg (Kreis)	Schleswig-Holstein	317085	108658	539	342677	1699	5.4	86.5	
 Plön (Kreis)	Schleswig-Holstein	129353	39404	71	304623	548	8.3	58.3	
-Rendsburg-Eckernförde (Kreis)	Schleswig-Holstein	274765	95392	118	347176	429	9.3	67.4	11.9
+Rendsburg-Eckernförde (Kreis)	Schleswig-Holstein	274765	95392	118	347176	429	7.0	67.4	11.9
 Schleswig-Flensburg (Kreis)	Schleswig-Holstein	202647	67795	145	334547	715	8.3	100.0	18.9
 Segeberg (Kreis)	Schleswig-Holstein	278007	103984	337	374033	1212	1.2	78.6	
 Steinburg (Kreis)	Schleswig-Holstein	130706	43565	68	333305	520	4.7	67.4	17.5
@@ -20,24 +20,24 @@ Neunkirchen (Landkreis)	Saarland	131172	53730	220	409614	1677	0.0	71.8	13.0
 Saarlouis (Landkreis)	Saarland	193732	85022	283	438863	1460	5.2	72.4	12.9
 Saarpfalz-Kreis (Landkreis)	Saarland	141656	57560	204	406336	1440	2.9	91.2	12.9
 St. Wendel (Landkreis)	Saarland	86458	37833	175	437588	2024	0.0	100.0	22.6
-Berlin Reinickendorf (Bezirk)	Berlin	259720	83180	403	320267	1551	4.3	88.5	
-Berlin Charlottenburg-Wilmersdorf (Bezirk)	Berlin	316223	99721	412	315350	1302	4.3	88.5	
-Berlin Treptow-Köpenick (Bezirk)	Berlin	272992	87592	338	320859	1238	4.3	88.5	
-Berlin Pankow (Bezirk)	Berlin	404187	143289	304	354511	752	4.3	88.5	
-Berlin Neukölln (Bezirk)	Berlin	318509	114356	531	359035	1667	4.3	88.5	
-Berlin Lichtenberg (Bezirk)	Berlin	292005	98176	367	336213	1256	4.3	88.5	
-Berlin Marzahn-Hellersdorf (Bezirk)	Berlin	274076	87828	379	320451	1382	4.3	88.5	
-Berlin Spandau (Bezirk)	Berlin	239374	81487	324	340417	1353	4.3	88.5	
-Berlin Steglitz-Zehlendorf (Bezirk)	Berlin	291915	91121	523	312149	1791	4.3	88.5	
-Berlin Mitte (Bezirk)	Berlin	374581	141657	410	378174	1094	4.3	88.5	
-Berlin Friedrichshain-Kreuzberg (Bezirk)	Berlin	279210	110643	212	396271	759	4.3	88.5	
-Berlin Tempelhof-Schöneberg (Bezirk)	Berlin	341296	115050	596	337097	1746	4.3	88.5	34.5
+Berlin Reinickendorf (Bezirk)	Berlin	259720	83180	403	320267	1551	4.4	88.6	
+Berlin Charlottenburg-Wilmersdorf (Bezirk)	Berlin	316223	99721	412	315350	1302	4.4	88.6	
+Berlin Treptow-Köpenick (Bezirk)	Berlin	272992	87592	338	320859	1238	4.4	88.6	
+Berlin Pankow (Bezirk)	Berlin	404187	143289	304	354511	752	4.4	88.6	
+Berlin Neukölln (Bezirk)	Berlin	318509	114356	531	359035	1667	4.4	88.6	
+Berlin Lichtenberg (Bezirk)	Berlin	292005	98176	367	336213	1256	4.4	88.6	
+Berlin Marzahn-Hellersdorf (Bezirk)	Berlin	274076	87828	379	320451	1382	4.4	88.6	
+Berlin Spandau (Bezirk)	Berlin	239374	81487	324	340417	1353	4.4	88.6	
+Berlin Steglitz-Zehlendorf (Bezirk)	Berlin	291915	91121	523	312149	1791	4.4	88.6	
+Berlin Mitte (Bezirk)	Berlin	374581	141657	410	378174	1094	4.4	88.6	
+Berlin Friedrichshain-Kreuzberg (Bezirk)	Berlin	279210	110643	212	396271	759	4.4	88.6	
+Berlin Tempelhof-Schöneberg (Bezirk)	Berlin	341296	115050	596	337097	1746	4.4	88.6	34.5
 Brandenburg an der Havel (Kreisfreie Stadt)	Brandenburg	72040	24388	171	338534	2373	2.9	78.3	38.2
 Cottbus (Kreisfreie Stadt)	Brandenburg	98693	43344	320	439180	3242	4.5	87.5	20.6
 Frankfurt (Oder) (Kreisfreie Stadt)	Brandenburg	57015	22144	204	388389	3578	8.3	100.0	
 Potsdam (Kreisfreie Stadt)	Brandenburg	182112	68183	279	374401	1532	1.6	75.8	
 Barnim (Landkreis)	Brandenburg	187343	59493	356	317561	1900	0.0	94.9	
-Dahme-Spreewald (Landkreis)	Brandenburg	173316	67430	418	389058	2411	9.4	75.0	
+Dahme-Spreewald (Landkreis)	Brandenburg	173316	67430	418	389058	2411	12.5	75.0	
 Elbe-Elster (Landkreis)	Brandenburg	101085	43581	404	431132	3996	11.1	88.9	35.2
 Havelland (Landkreis)	Brandenburg	164693	52757	296	320335	1797	0.0	81.0	
 Märkisch-Oderland (Landkreis)	Brandenburg	197195	69834	404	354136	2048	4.5	86.4	
@@ -275,7 +275,7 @@ Böblingen (Landkreis)	Baden-Württemberg	392898	160998	506	409770	1287	2.0	84.3
 Esslingen (Landkreis)	Baden-Württemberg	533617	212999	896	399160	1679	2.7	79.7	12.8
 Göppingen (Landkreis)	Baden-Württemberg	258781	99826	403	385754	1557	5.7	65.7	38.2
 Ludwigsburg (Landkreis)	Baden-Württemberg	544971	205670	738	377396	1354	0.0	94.2	
-Rems-Murr-Kreis (Landkreis)	Baden-Württemberg	427286	174256	642	407820	1502	3.2	88.7	16.6
+Rems-Murr-Kreis (Landkreis)	Baden-Württemberg	427286	174256	642	407820	1502	4.8	79.0	16.6
 Heilbronn (Stadtkreis)	Baden-Württemberg	126458	54071	271	427580	2143	3.4	60.3	
 Heilbronn (Landkreis)	Baden-Württemberg	346363	147718	355	426483	1024	10.9	93.5	
 Hohenlohekreis (Landkreis)	Baden-Württemberg	112765	48912	192	433751	1702	0.0	57.1	9.5
