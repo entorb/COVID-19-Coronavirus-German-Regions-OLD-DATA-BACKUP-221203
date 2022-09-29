@@ -92,7 +92,7 @@ Suhl (Kreisfreie Stadt)	Thüringen	36054	11643	189	322932	5242	3.2	58.1	5.7
 Weimar (Kreisfreie Stadt)	Thüringen	65138	24996	172	383739	2640	7.1	78.6	
 Eichsfeld (Landkreis)	Thüringen	99324	43157	359	434507	3614	0.0	72.7	8.0
 Nordhausen (Landkreis)	Thüringen	81687	26564	105	325192	1285	1.8	52.6	5.9
-Wartburgkreis (Landkreis)	Thüringen	158900	58443	455	367797	2863	2.5	81.2	5.9
+Wartburgkreis (Landkreis)	Thüringen	158900	58443	455	367797	2863	2.5	81.0	5.9
 Unstrut-Hainich-Kreis (Landkreis)	Thüringen	101269	40479	422	399717	4167	0.0	70.6	6.7
 Kyffhäuserkreis (Landkreis)	Thüringen	72964	24874	249	340907	3412	33.3	33.3	7.8
 Schmalkalden-Meiningen (Landkreis)	Thüringen	123404	50799	697	411647	5648	9.5	73.8	10.1
@@ -188,7 +188,7 @@ Borken (Kreis)	Nordrhein-Westfalen	373582	173268	484	463801	1295	7.0	76.1	10.0
 Coesfeld (Kreis)	Nordrhein-Westfalen	221352	94200	150	425566	677	2.9	88.6	22.6
 Recklinghausen (Kreis)	Nordrhein-Westfalen	612801	208281	1494	339883	2437	2.3	78.8	13.5
 Steinfurt (Kreis)	Nordrhein-Westfalen	450176	185448	505	411945	1121	3.1	80.2	15.9
-Warendorf (Kreis)	Nordrhein-Westfalen	278176	115298	361	414478	1297	8.7	87.0	12.3
+Warendorf (Kreis)	Nordrhein-Westfalen	278176	115298	361	414478	1297	10.9	87.0	12.3
 Bielefeld (Kreisfreie Stadt)	Nordrhein-Westfalen	334002	137002	624	410183	1868	2.4	81.9	13.6
 Gütersloh (Kreis)	Nordrhein-Westfalen	366104	158057	517	431727	1412	3.6	85.7	17.3
 Herford (Kreis)	Nordrhein-Westfalen	250635	111152	367	443481	1464	0.0	66.0	16.3
@@ -258,7 +258,7 @@ Mainz (Kreisfreie Stadt)	Rheinland-Pfalz	217556	86959	267	399708	1227	3.8	92.5
 Neustadt an der Weinstraße (Kreisfreie Stadt)	Rheinland-Pfalz	53491	19497	69	364491	1289	0.0	94.1	10.6
 Pirmasens (Kreisfreie Stadt)	Rheinland-Pfalz	40054	13199	108	329530	2696	6.2	81.2	6.5
 Speyer (Kreisfreie Stadt)	Rheinland-Pfalz	50565	20446	129	404350	2551	7.7	100.0	9.4
-Worms (Kreisfreie Stadt)	Rheinland-Pfalz	83850	34151	165	407286	1967	11.8	84.3	35.3
+Worms (Kreisfreie Stadt)	Rheinland-Pfalz	83850	34151	165	407286	1967	13.7	84.3	35.3
 Zweibrücken (Kreisfreie Stadt)	Rheinland-Pfalz	34091	12422	31	364377	909	0.0	90.0	25.2
 Alzey-Worms (Landkreis)	Rheinland-Pfalz	131330	48923	223	372519	1698	16.7	66.7	20.7
 Bad Dürkheim (Landkreis)	Rheinland-Pfalz	133206	45024	235	338002	1764	6.2	75.0	11.8
@@ -317,7 +317,7 @@ Sigmaringen (Landkreis)	Baden-Württemberg	131725	60430	178	458758	1351	0.0	78.6
 Ingolstadt (Kreisfreie Stadt)	Bayern	138016	62362	258	451846	1869	4.4	88.9	12.2
 München (Kreisfreie Stadt)	Bayern	1487708	644533	2226	433238	1496	4.0	92.0	4.6
 Rosenheim (Kreisfreie Stadt)	Bayern	63508	32044	136	504566	2141	10.5	89.5	
-Altötting (Landkreis)	Bayern	112116	54885	361	489537	3219	8.3	100.0	6.8
+Altötting (Landkreis)	Bayern	112116	54885	361	489537	3219	4.2	100.0	6.8
 Berchtesgadener Land (Landkreis)	Bayern	106389	49880	197	468845	1851	0.0	81.8	8.9
 Bad Tölz-Wolfratshausen (Landkreis)	Bayern	127919	56677	189	443069	1477	0.0	100.0	5.8
 Dachau (Landkreis)	Bayern	155449	76460	247	491865	1588	17.2	96.6	6.7
@@ -348,7 +348,7 @@ Passau (Landkreis)	Bayern	194090	94698	609	487907	3137	26.9	84.6	21.5
 Regen (Landkreis)	Bayern	77176	39098	270	506608	3498	0.0	69.2	6.5
 Rottal-Inn (Landkreis)	Bayern	122252	59546	369	487075	3018	6.2	87.5	13.0
 Straubing-Bogen (Landkreis)	Bayern	102398	53316	210	520674	2050	16.7	75.0	11.7
-Dingolfing-Landau (Landkreis)	Bayern	98045	47730	261	486817	2662	0.0	85.7	17.2
+Dingolfing-Landau (Landkreis)	Bayern	98045	47730	261	486817	2662	0.0	100.0	17.2
 Amberg (Kreisfreie Stadt)	Bayern	41994	17392	74	414154	1762	2.5	80.0	19.4
 Regensburg (Kreisfreie Stadt)	Bayern	153542	68446	188	445780	1224	3.6	91.4	4.8
 Weiden i.d. OPf. (Kreisfreie Stadt)	Bayern	42472	19729	125	464517	2943	5.5	74.5	14.8
