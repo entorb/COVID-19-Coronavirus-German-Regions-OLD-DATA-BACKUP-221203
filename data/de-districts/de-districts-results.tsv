@@ -20,18 +20,18 @@ Neunkirchen (Landkreis)	Saarland	130847	55089	223	421018	1704	2.6	69.2	33.9
 Saarlouis (Landkreis)	Saarland	193661	87369	284	451144	1466	10.9	70.9	42.6
 Saarpfalz-Kreis (Landkreis)	Saarland	140960	59066	206	419026	1461	4.3	82.6	30.9
 St. Wendel (Landkreis)	Saarland	86170	38858	179	450945	2077	0.0	85.7	
-Berlin Reinickendorf (Bezirk)	Berlin	260576	84151	403	322942	1546	5.0	88.7	
-Berlin Charlottenburg-Wilmersdorf (Bezirk)	Berlin	317229	100818	414	317808	1305	5.0	88.7	
-Berlin Treptow-Köpenick (Bezirk)	Berlin	273188	88828	340	325153	1244	5.0	88.7	
-Berlin Pankow (Bezirk)	Berlin	404795	144690	320	357440	790	5.0	88.7	
-Berlin Neukölln (Bezirk)	Berlin	320204	115333	535	360186	1670	5.0	88.7	
-Berlin Lichtenberg (Bezirk)	Berlin	293139	99569	368	339664	1255	5.0	88.7	
-Berlin Marzahn-Hellersdorf (Bezirk)	Berlin	274853	89351	384	325086	1397	5.0	88.7	
-Berlin Spandau (Bezirk)	Berlin	240542	82421	326	342647	1355	5.0	88.7	
-Berlin Steglitz-Zehlendorf (Bezirk)	Berlin	292255	92293	523	315796	1789	5.0	88.7	
-Berlin Mitte (Bezirk)	Berlin	377735	142940	410	378413	1085	5.0	88.7	
-Berlin Friedrichshain-Kreuzberg (Bezirk)	Berlin	280671	111498	213	397255	758	5.0	88.7	
-Berlin Tempelhof-Schöneberg (Bezirk)	Berlin	342285	116395	598	340052	1747	5.0	88.7	53.9
+Berlin Reinickendorf (Bezirk)	Berlin	260576	84151	403	322942	1546	5.0	88.5	
+Berlin Charlottenburg-Wilmersdorf (Bezirk)	Berlin	317229	100818	414	317808	1305	5.0	88.5	
+Berlin Treptow-Köpenick (Bezirk)	Berlin	273188	88828	340	325153	1244	5.0	88.5	
+Berlin Pankow (Bezirk)	Berlin	404795	144690	320	357440	790	5.0	88.5	
+Berlin Neukölln (Bezirk)	Berlin	320204	115333	535	360186	1670	5.0	88.5	
+Berlin Lichtenberg (Bezirk)	Berlin	293139	99569	368	339664	1255	5.0	88.5	
+Berlin Marzahn-Hellersdorf (Bezirk)	Berlin	274853	89351	384	325086	1397	5.0	88.5	
+Berlin Spandau (Bezirk)	Berlin	240542	82421	326	342647	1355	5.0	88.5	
+Berlin Steglitz-Zehlendorf (Bezirk)	Berlin	292255	92293	523	315796	1789	5.0	88.5	
+Berlin Mitte (Bezirk)	Berlin	377735	142940	410	378413	1085	5.0	88.5	
+Berlin Friedrichshain-Kreuzberg (Bezirk)	Berlin	280671	111498	213	397255	758	5.0	88.5	
+Berlin Tempelhof-Schöneberg (Bezirk)	Berlin	342285	116395	598	340052	1747	5.0	88.5	53.9
 Brandenburg an der Havel (Kreisfreie Stadt)	Brandenburg	72461	24785	171	342046	2359	6.3	85.7	
 Cottbus (Kreisfreie Stadt)	Brandenburg	98359	43987	323	447208	3283	1.2	70.4	
 Frankfurt (Oder) (Kreisfreie Stadt)	Brandenburg	56679	22674	205	400042	3616	8.3	100.0	17.3
@@ -73,7 +73,7 @@ Leipzig (Landkreis)	Sachsen	258214	114760	562	444437	2176	0.0	85.5
 Nordsachsen (Landkreis)	Sachsen	197529	82947	674	419923	3412	5.8	75.0	38.0
 Dessau-Roßlau (Kreisfreie Stadt)	Sachsen-Anhalt	78731	29322	186	372432	2362	0.0	86.8	
 Halle (Saale) (Kreisfreie Stadt)	Sachsen-Anhalt	238061	95059	626	399305	2629	3.7	85.2	
-Magdeburg (Kreisfreie Stadt)	Sachsen-Anhalt	236188	78661	261	333044	1105	1.6	94.2	
+Magdeburg (Kreisfreie Stadt)	Sachsen-Anhalt	236188	78661	261	333044	1105	2.6	93.2	
 Altmarkkreis Salzwedel (Landkreis)	Sachsen-Anhalt	81986	33434	155	407801	1890	0.0	71.4	24.5
 Anhalt-Bitterfeld (Landkreis)	Sachsen-Anhalt	155900	62250	426	399294	2732	0.0	63.6	
 Börde (Landkreis)	Sachsen-Anhalt	170106	67290	222	395576	1305	0.0	76.9	16.4
@@ -258,7 +258,7 @@ Mainz (Kreisfreie Stadt)	Rheinland-Pfalz	217556	87538	267	402369	1227	5.8	97.1	2
 Neustadt an der Weinstraße (Kreisfreie Stadt)	Rheinland-Pfalz	53491	19615	69	366697	1289	20.0	100.0	
 Pirmasens (Kreisfreie Stadt)	Rheinland-Pfalz	40054	13333	108	332875	2696	6.2	50.0	16.9
 Speyer (Kreisfreie Stadt)	Rheinland-Pfalz	50565	20507	129	405557	2551	6.9	100.0	
-Worms (Kreisfreie Stadt)	Rheinland-Pfalz	83850	34319	165	409290	1967	7.7	84.6	
+Worms (Kreisfreie Stadt)	Rheinland-Pfalz	83850	34319	165	409290	1967	3.8	80.8	
 Zweibrücken (Kreisfreie Stadt)	Rheinland-Pfalz	34091	12586	31	369188	909	0.0	70.0	23.4
 Alzey-Worms (Landkreis)	Rheinland-Pfalz	131330	49307	224	375443	1705	33.3	100.0	16.9
 Bad Dürkheim (Landkreis)	Rheinland-Pfalz	133206	45319	235	340217	1764	6.7	60.0	
@@ -326,7 +326,7 @@ Eichstätt (Landkreis)	Bayern	133634	63769	144	477191	1077	4.5	97.7
 Erding (Landkreis)	Bayern	139622	70814	206	507183	1475	12.5	93.8	
 Freising (Landkreis)	Bayern	181144	83580	237	461400	1308	12.5	100.0	
 Fürstenfeldbruck (Landkreis)	Bayern	218579	96450	243	441259	1111	25.0	87.5	13.7
-Garmisch-Partenkirchen (Landkreis)	Bayern	88232	36663	159	415529	1802	0.0	85.2	24.3
+Garmisch-Partenkirchen (Landkreis)	Bayern	88232	36663	159	415529	1802	0.0	83.0	24.3
 Landsberg am Lech (Landkreis)	Bayern	121466	52082	123	428778	1012	0.0	100.0	12.9
 Miesbach (Landkreis)	Bayern	99978	47764	203	477745	2030	5.0	70.0	15.5
 Mühldorf a. Inn (Landkreis)	Bayern	117606	62350	326	530160	2771	20.0	80.0	
