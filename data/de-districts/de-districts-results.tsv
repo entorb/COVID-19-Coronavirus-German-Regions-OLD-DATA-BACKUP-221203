@@ -20,18 +20,18 @@ Neunkirchen (Landkreis)	Saarland	130847	58748	225	448982	1719	8.6	65.7
 Saarlouis (Landkreis)	Saarland	193661	93453	282	482559	1456	8.9	82.1	
 Saarpfalz-Kreis (Landkreis)	Saarland	140960	63514	209	450581	1482	12.2	78.7	
 St. Wendel (Landkreis)	Saarland	86170	41848	182	485644	2112	25.0	75.0	
-Berlin Reinickendorf (Bezirk)	Berlin	260576	86491	404	331922	1550	6.0	89.7	
-Berlin Charlottenburg-Wilmersdorf (Bezirk)	Berlin	317229	103550	420	326420	1323	6.0	89.7	28.3
-Berlin Treptow-Köpenick (Bezirk)	Berlin	273188	91501	343	334937	1255	6.0	89.7	
-Berlin Pankow (Bezirk)	Berlin	404795	149230	323	368655	797	6.0	89.7	
-Berlin Neukölln (Bezirk)	Berlin	320204	117613	537	367306	1677	6.0	89.7	
-Berlin Lichtenberg (Bezirk)	Berlin	293139	102615	370	350055	1262	6.0	89.7	
-Berlin Marzahn-Hellersdorf (Bezirk)	Berlin	274853	91926	388	334455	1411	6.0	89.7	
-Berlin Spandau (Bezirk)	Berlin	240542	84826	326	352645	1355	6.0	89.7	
-Berlin Steglitz-Zehlendorf (Bezirk)	Berlin	292255	95399	530	326423	1813	6.0	89.7	
-Berlin Mitte (Bezirk)	Berlin	377735	146074	411	386710	1088	6.0	89.7	
-Berlin Friedrichshain-Kreuzberg (Bezirk)	Berlin	280671	114041	214	406315	762	6.0	89.7	
-Berlin Tempelhof-Schöneberg (Bezirk)	Berlin	342285	119479	602	349062	1758	6.0	89.7	
+Berlin Reinickendorf (Bezirk)	Berlin	260576	86491	404	331922	1550	6.1	89.6	
+Berlin Charlottenburg-Wilmersdorf (Bezirk)	Berlin	317229	103550	420	326420	1323	6.1	89.6	28.3
+Berlin Treptow-Köpenick (Bezirk)	Berlin	273188	91501	343	334937	1255	6.1	89.6	
+Berlin Pankow (Bezirk)	Berlin	404795	149230	323	368655	797	6.1	89.6	
+Berlin Neukölln (Bezirk)	Berlin	320204	117613	537	367306	1677	6.1	89.6	
+Berlin Lichtenberg (Bezirk)	Berlin	293139	102615	370	350055	1262	6.1	89.6	
+Berlin Marzahn-Hellersdorf (Bezirk)	Berlin	274853	91926	388	334455	1411	6.1	89.6	
+Berlin Spandau (Bezirk)	Berlin	240542	84826	326	352645	1355	6.1	89.6	
+Berlin Steglitz-Zehlendorf (Bezirk)	Berlin	292255	95399	530	326423	1813	6.1	89.6	
+Berlin Mitte (Bezirk)	Berlin	377735	146074	411	386710	1088	6.1	89.6	
+Berlin Friedrichshain-Kreuzberg (Bezirk)	Berlin	280671	114041	214	406315	762	6.1	89.6	
+Berlin Tempelhof-Schöneberg (Bezirk)	Berlin	342285	119479	602	349062	1758	6.1	89.6	
 Brandenburg an der Havel (Kreisfreie Stadt)	Brandenburg	72461	25891	172	357309	2373	6.2	81.5	
 Cottbus (Kreisfreie Stadt)	Brandenburg	98359	45531	325	462906	3304	4.9	85.4	
 Frankfurt (Oder) (Kreisfreie Stadt)	Brandenburg	56679	24195	208	426877	3669	0.0	66.7	
@@ -98,7 +98,7 @@ Kyffhäuserkreis (Landkreis)	Thüringen	72964	25630	250	351269	3426	16.7	100.0
 Schmalkalden-Meiningen (Landkreis)	Thüringen	123404	53366	705	432449	5712	21.4	66.7	
 Gotha (Landkreis)	Thüringen	133825	50222	360	375281	2690	6.7	80.0	
 Sömmerda (Landkreis)	Thüringen	68717	26035	249	378872	3623	0.0	57.1	
-Hildburghausen (Landkreis)	Thüringen	62089	27138	427	437082	6877	25.0	87.5	
+Hildburghausen (Landkreis)	Thüringen	62089	27138	427	437082	6877	12.5	87.5	
 Ilm-Kreis (Landkreis)	Thüringen	105367	45667	442	433408	4194	5.9	41.2	45.9
 Weimarer Land (Landkreis)	Thüringen	82103	31139	138	379267	1680	4.1	80.8	
 Sonneberg (Landkreis)	Thüringen	56504	23360	294	413422	5203	12.5	87.5	
@@ -118,7 +118,7 @@ Northeim (Landkreis)	Niedersachsen	131765	54679	173	414973	1312	5.0	70.0
 Peine (Landkreis)	Niedersachsen	136960	61013	173	445480	1263	14.3	92.9	
 Wolfenbüttel (Landkreis)	Niedersachsen	119224	47678	161	399902	1350	18.8	75.0	
 Göttingen (Landkreis)	Niedersachsen	323661	134748	454	416324	1402	14.4	90.4	
-Hannover (Landkreis)	Niedersachsen	1157541	468104	1915	404395	1654	3.5	90.1	
+Hannover (Landkreis)	Niedersachsen	1157541	468104	1915	404395	1654	3.8	90.1	
 Diepholz (Landkreis)	Niedersachsen	218839	92370	171	422091	781	0.0	70.6	
 Hameln-Pyrmont (Landkreis)	Niedersachsen	148963	60570	187	406611	1255	0.0	84.6	
 Hildesheim (Landkreis)	Niedersachsen	274773	112468	576	409312	2096	9.7	75.0	
@@ -163,7 +163,7 @@ Mönchengladbach (Kreisfreie Stadt)	Nordrhein-Westfalen	261001	102582	357	393032
 Mülheim an der Ruhr (Kreisfreie Stadt)	Nordrhein-Westfalen	170739	58936	389	345181	2278	14.7	85.3	
 Oberhausen (Kreisfreie Stadt)	Nordrhein-Westfalen	208752	66998	504	320945	2414	1.4	86.3	
 Remscheid (Kreisfreie Stadt)	Nordrhein-Westfalen	111770	45801	287	409779	2567	25.0	92.9	
-Solingen (Kreisfreie Stadt)	Nordrhein-Westfalen	158957	73559	345	462760	2170	15.7	82.9	
+Solingen (Kreisfreie Stadt)	Nordrhein-Westfalen	158957	73559	345	462760	2170	14.3	82.9	
 Wuppertal (Kreisfreie Stadt)	Nordrhein-Westfalen	354572	149963	689	422940	1943	5.1	85.3	
 Kleve (Kreis)	Nordrhein-Westfalen	314676	108579	411	345050	1306	9.1	83.3	
 Mettmann (Kreis)	Nordrhein-Westfalen	484411	199595	1145	412036	2363	11.7	75.0	
@@ -295,7 +295,7 @@ Pforzheim (Stadtkreis)	Baden-Württemberg	125529	55417	340	441467	2708	2.0	82.4	
 Calw (Landkreis)	Baden-Württemberg	160686	65954	324	410452	2016	5.6	77.8	
 Enzkreis (Landkreis)	Baden-Württemberg	200237	88207	349	440512	1742	0.0	90.0	6.6
 Freudenstadt (Landkreis)	Baden-Württemberg	119183	52822	245	443200	2055	8.3	66.7	
-Freiburg im Breisgau (Stadtkreis)	Baden-Württemberg	231848	97628	283	421086	1220	7.2	83.0	
+Freiburg im Breisgau (Stadtkreis)	Baden-Württemberg	231848	97628	283	421086	1220	6.2	83.0	
 Breisgau-Hochschwarzwald (Landkreis)	Baden-Württemberg	265792	107740	360	405354	1354	6.9	86.2	
 Emmendingen (Landkreis)	Baden-Württemberg	167945	73987	262	440543	1560	5.6	72.2	
 Ortenaukreis (Landkreis)	Baden-Württemberg	434535	197844	865	455300	1990	6.9	74.7	
@@ -390,7 +390,7 @@ Würzburg (Kreisfreie Stadt)	Bayern	126933	63737	215	502131	1693	5.4	79.3
 Aschaffenburg (Landkreis)	Bayern	174965	79709	331	455571	1891	11.1	77.8	
 Bad Kissingen (Landkreis)	Bayern	103454	52020	219	502832	2116	16.1	90.3	
 Rhön-Grabfeld (Landkreis)	Bayern	79376	40983	172	516314	2166	9.4	94.9	
-Haßberge (Landkreis)	Bayern	84284	43371	162	514581	1922	22.2	100.0	
+Haßberge (Landkreis)	Bayern	84284	43371	162	514581	1922	33.3	100.0	
 Kitzingen (Landkreis)	Bayern	91980	43669	170	474766	1848	0.0	100.0	
 Miltenberg (Landkreis)	Bayern	128782	62990	236	489121	1832	12.5	87.5	
 Main-Spessart (Landkreis)	Bayern	126105	53729	260	426065	2061	0.0	83.3	
