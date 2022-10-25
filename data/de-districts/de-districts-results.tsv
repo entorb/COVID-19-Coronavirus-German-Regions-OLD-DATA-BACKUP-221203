@@ -35,7 +35,7 @@ Berlin Tempelhof-Schöneberg (Bezirk)	Berlin	342285	121031	603	353597	1761	7.5	8
 Brandenburg an der Havel (Kreisfreie Stadt)	Brandenburg	72461	26285	172	362746	2373	4.5	77.6	
 Cottbus (Kreisfreie Stadt)	Brandenburg	98359	46267	325	470389	3304	5.8	79.1	
 Frankfurt (Oder) (Kreisfreie Stadt)	Brandenburg	56679	24760	209	436846	3687	0.0	75.0	
-Potsdam (Kreisfreie Stadt)	Brandenburg	183154	73681	281	402289	1534	8.3	76.7	
+Potsdam (Kreisfreie Stadt)	Brandenburg	183154	73681	281	402289	1534	8.6	79.3	
 Barnim (Landkreis)	Brandenburg	188835	63085	363	334074	1922	7.1	98.2	25.4
 Dahme-Spreewald (Landkreis)	Brandenburg	175834	72339	424	411405	2411	6.9	72.4	
 Elbe-Elster (Landkreis)	Brandenburg	100317	46829	412	466810	4106	0.0	61.1	41.5
@@ -163,7 +163,7 @@ Mönchengladbach (Kreisfreie Stadt)	Nordrhein-Westfalen	261001	104274	358	399515
 Mülheim an der Ruhr (Kreisfreie Stadt)	Nordrhein-Westfalen	170739	60103	393	352016	2301	12.5	87.5	
 Oberhausen (Kreisfreie Stadt)	Nordrhein-Westfalen	208752	67854	505	325045	2419	4.2	87.3	
 Remscheid (Kreisfreie Stadt)	Nordrhein-Westfalen	111770	46611	287	417026	2567	17.9	96.4	
-Solingen (Kreisfreie Stadt)	Nordrhein-Westfalen	158957	74768	348	470366	2189	11.8	79.4	
+Solingen (Kreisfreie Stadt)	Nordrhein-Westfalen	158957	74768	348	470366	2189	11.8	85.3	
 Wuppertal (Kreisfreie Stadt)	Nordrhein-Westfalen	354572	152606	693	430394	1954	13.2	87.5	
 Kleve (Kreis)	Nordrhein-Westfalen	314676	110550	416	351313	1321	14.5	87.1	
 Mettmann (Kreis)	Nordrhein-Westfalen	484411	204180	1155	421501	2384	10.0	81.7	
@@ -197,7 +197,7 @@ Lippe (Kreis)	Nordrhein-Westfalen	346151	138250	682	399392	1970	10.0	96.0
 Minden-Lübbecke (Kreis)	Nordrhein-Westfalen	311214	156438	485	502670	1558	4.2	92.7	
 Paderborn (Kreis)	Nordrhein-Westfalen	309380	111309	232	359780	749	3.8	85.9	
 Bochum (Kreisfreie Stadt)	Nordrhein-Westfalen	363441	127943	484	352032	1331	4.4	90.6	
-Dortmund (Kreisfreie Stadt)	Nordrhein-Westfalen	586852	235622	611	401501	1041	4.1	86.2	
+Dortmund (Kreisfreie Stadt)	Nordrhein-Westfalen	586852	235622	611	401501	1041	4.5	86.6	
 Hagen (Kreisfreie Stadt)	Nordrhein-Westfalen	188713	76244	551	404020	2919	6.0	77.4	
 Hamm (Kreisfreie Stadt)	Nordrhein-Westfalen	179238	78084	293	435644	1634	3.3	74.7	
 Herne (Kreisfreie Stadt)	Nordrhein-Westfalen	156621	63769	412	407154	2630	3.1	90.6	
@@ -248,7 +248,7 @@ Westerwaldkreis (Landkreis)	Rheinland-Pfalz	203831	82629	261	405379	1280	12.0	76
 Trier (Kreisfreie Stadt)	Rheinland-Pfalz	110570	40675	70	367866	633	8.0	76.0	
 Bernkastel-Wittlich (Landkreis)	Rheinland-Pfalz	113194	39666	134	350424	1183	4.5	77.3	
 Eifelkreis Bitburg-Prüm (Landkreis)	Rheinland-Pfalz	100959	32315	69	320080	683	13.3	66.7	
-Vulkaneifel (Landkreis)	Rheinland-Pfalz	60882	27963	96	459298	1576	7.7	53.8	
+Vulkaneifel (Landkreis)	Rheinland-Pfalz	60882	27963	96	459298	1576	6.2	43.8	
 Trier-Saarburg (Landkreis)	Rheinland-Pfalz	151167	55081	150	364371	992	8.3	41.7	
 Frankenthal (Pfalz) (Kreisfreie Stadt)	Rheinland-Pfalz	48773	18745	95	384331	1947	0.0	100.0	
 Kaiserslautern (Kreisfreie Stadt)	Rheinland-Pfalz	99292	42372	255	426741	2568	9.2	78.0	
@@ -317,7 +317,7 @@ Sigmaringen (Landkreis)	Baden-Württemberg	131725	64252	184	487773	1396	8.3	91.7
 Ingolstadt (Kreisfreie Stadt)	Bayern	138016	65680	261	475886	1891	10.2	83.7	
 München (Kreisfreie Stadt)	Bayern	1487708	688275	2285	462641	1535	10.0	92.0	
 Rosenheim (Kreisfreie Stadt)	Bayern	63508	33440	137	526547	2157	5.3	97.4	
-Altötting (Landkreis)	Bayern	112116	58865	367	525036	3273	20.8	87.5	
+Altötting (Landkreis)	Bayern	112116	58865	367	525036	3273	16.7	87.5	
 Berchtesgadener Land (Landkreis)	Bayern	106389	52529	205	493744	1926	0.0	94.7	
 Bad Tölz-Wolfratshausen (Landkreis)	Bayern	127919	59997	192	469023	1500	13.6	86.4	
 Dachau (Landkreis)	Bayern	155449	81547	254	524590	1633	19.4	100.0	
@@ -390,7 +390,7 @@ Würzburg (Kreisfreie Stadt)	Bayern	126933	64515	216	508260	1701	5.7	82.0
 Aschaffenburg (Landkreis)	Bayern	174965	81031	334	463126	1908	10.0	50.0	
 Bad Kissingen (Landkreis)	Bayern	103454	52812	219	510487	2116	9.7	96.8	
 Rhön-Grabfeld (Landkreis)	Bayern	79376	41671	172	524982	2166	7.2	93.5	
-Haßberge (Landkreis)	Bayern	84284	43994	164	521973	1945	18.2	100.0	
+Haßberge (Landkreis)	Bayern	84284	43994	164	521973	1945	22.2	100.0	
 Kitzingen (Landkreis)	Bayern	91980	44284	172	481452	1869	14.3	42.9	
 Miltenberg (Landkreis)	Bayern	128782	63900	237	496187	1840	0.0	100.0	
 Main-Spessart (Landkreis)	Bayern	126105	54541	260	432504	2061	0.0	66.7	
