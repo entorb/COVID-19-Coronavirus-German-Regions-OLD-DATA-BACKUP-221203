@@ -2,7 +2,7 @@ Landkreis	Bundesland	Population	Cases	Deaths	Cases_Per_Million	Deaths_Per_Millio
 Flensburg (Kreisfreie Stadt)	Schleswig-Holstein	91113	37441	85	410929	932	7.5	82.5	
 Kiel (Kreisfreie Stadt)	Schleswig-Holstein	246243	95410	286	387462	1161	1.5	84.7	
 Lübeck (Kreisfreie Stadt)	Schleswig-Holstein	216277	84638	148	391340	684	10.3	97.4	
-Neumünster (Kreisfreie Stadt)	Schleswig-Holstein	79496	29016	106	364999	1333	8.7	95.7	
+Neumünster (Kreisfreie Stadt)	Schleswig-Holstein	79496	28946	106	364118	1333	8.7	95.7	
 Dithmarschen (Kreis)	Schleswig-Holstein	133969	49555	119	369899	888	2.9	91.4	
 Herzogtum Lauenburg (Kreis)	Schleswig-Holstein	200819	71090	175	354000	871	6.2	93.8	
 Nordfriesland (Kreis)	Schleswig-Holstein	167560	66474	183	396717	1092	4.5	68.2	
@@ -25,13 +25,13 @@ Berlin Charlottenburg-Wilmersdorf (Bezirk)	Berlin	317229	105219	426	331681	1342	
 Berlin Treptow-Köpenick (Bezirk)	Berlin	273188	93170	348	341047	1273	8.5	87.6	
 Berlin Pankow (Bezirk)	Berlin	404795	151610	327	374535	807	8.5	87.6	
 Berlin Neukölln (Bezirk)	Berlin	320204	119212	544	372300	1698	8.5	87.6	
-Berlin Lichtenberg (Bezirk)	Berlin	293139	104077	373	355043	1272	8.5	87.6	
+Berlin Lichtenberg (Bezirk)	Berlin	293139	103819	371	354163	1265	7.5	87.7	
 Berlin Marzahn-Hellersdorf (Bezirk)	Berlin	274853	93673	391	340811	1422	8.5	87.6	
 Berlin Spandau (Bezirk)	Berlin	240542	86013	327	357579	1359	8.5	87.6	
 Berlin Steglitz-Zehlendorf (Bezirk)	Berlin	292255	97177	532	332507	1820	8.5	87.6	
 Berlin Mitte (Bezirk)	Berlin	377735	147706	415	391030	1098	8.5	87.6	
-Berlin Friedrichshain-Kreuzberg (Bezirk)	Berlin	280671	115289	217	410762	773	8.5	87.6	
-Berlin Tempelhof-Schöneberg (Bezirk)	Berlin	342285	121602	604	355265	1764	8.5	87.6	
+Berlin Friedrichshain-Kreuzberg (Bezirk)	Berlin	280671	115115	216	410142	769	7.5	87.7	
+Berlin Tempelhof-Schöneberg (Bezirk)	Berlin	342285	121031	603	353597	1761	7.5	87.7	
 Brandenburg an der Havel (Kreisfreie Stadt)	Brandenburg	72461	26359	172	363768	2373	4.5	77.6	
 Cottbus (Kreisfreie Stadt)	Brandenburg	98359	46589	325	473662	3304	5.8	79.1	
 Frankfurt (Oder) (Kreisfreie Stadt)	Brandenburg	56679	24892	210	439175	3705	0.0	66.7	
@@ -125,7 +125,7 @@ Hildesheim (Landkreis)	Niedersachsen	274773	114748	587	417610	2136	4.2	66.7
 Holzminden (Landkreis)	Niedersachsen	69862	27957	159	400174	2275	0.0	77.8	
 Nienburg (Weser) (Landkreis)	Niedersachsen	121773	51291	230	421201	1888	0.0	68.8	
 Schaumburg (Landkreis)	Niedersachsen	158108	69147	237	437340	1498	0.0	100.0	
-Celle (Landkreis)	Niedersachsen	179915	73359	192	407742	1067	13.2	65.8	
+Celle (Landkreis)	Niedersachsen	179915	73359	192	407742	1067	16.7	83.3	
 Cuxhaven (Landkreis)	Niedersachsen	199603	80246	279	402028	1397	20.0	80.0	
 Harburg (Landkreis)	Niedersachsen	257548	105726	243	410509	943	8.8	88.2	
 Lüchow-Dannenberg (Landkreis)	Niedersachsen	48472	18528	49	382241	1010	14.3	100.0	
@@ -311,7 +311,7 @@ Zollernalbkreis (Landkreis)	Baden-Württemberg	190545	86252	380	452659	1994	11.1
 Ulm (Stadtkreis)	Baden-Württemberg	126949	56677	144	446454	1134	8.0	83.2	
 Alb-Donau-Kreis (Landkreis)	Baden-Württemberg	199732	86817	281	434667	1406	6.2	81.2	
 Biberach (Landkreis)	Baden-Württemberg	203244	95241	314	468604	1544	6.2	100.0	
-Bodenseekreis (Landkreis)	Baden-Württemberg	218885	88572	366	404650	1672	5.6	63.0	
+Bodenseekreis (Landkreis)	Baden-Württemberg	218885	88572	366	404650	1672	7.4	63.0	
 Ravensburg (Landkreis)	Baden-Württemberg	287011	125462	228	437133	794	8.9	76.8	
 Sigmaringen (Landkreis)	Baden-Württemberg	131725	64366	184	488639	1396	8.3	58.3	
 Ingolstadt (Kreisfreie Stadt)	Bayern	138016	65765	261	476502	1891	11.4	86.4	
