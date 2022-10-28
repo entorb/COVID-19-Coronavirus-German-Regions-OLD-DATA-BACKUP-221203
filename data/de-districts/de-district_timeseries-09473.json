@@ -21542,15 +21542,15 @@
   "Cases_Per_Million": 474648,
   "Date": "2022-10-24",
   "Days_Since_2nd_Death": 933,
-  "Deaths": 215,
-  "Deaths_Last_Week": 1,
+  "Deaths": 216,
+  "Deaths_Last_Week": 2,
   "Deaths_Last_Week_7Day_Percent": 0,
-  "Deaths_Last_Week_Per_Million": 11.55,
-  "Deaths_New": 0,
-  "Deaths_New_Per_Million": 0.0,
+  "Deaths_Last_Week_Per_Million": 23.11,
+  "Deaths_New": 1,
+  "Deaths_New_Per_Million": 11.555,
   "Deaths_Per_Cases": 0.005,
-  "Deaths_Per_Cases_Last_Week": 0.002,
-  "Deaths_Per_Million": 2484
+  "Deaths_Per_Cases_Last_Week": 0.003,
+  "Deaths_Per_Million": 2495
  },
  {
   "Cases": 41166,
@@ -21563,15 +21563,15 @@
   "Cases_Per_Million": 475665,
   "Date": "2022-10-25",
   "Days_Since_2nd_Death": 934,
-  "Deaths": 215,
-  "Deaths_Last_Week": 1,
+  "Deaths": 216,
+  "Deaths_Last_Week": 2,
   "Deaths_Last_Week_7Day_Percent": 0,
-  "Deaths_Last_Week_Per_Million": 11.55,
+  "Deaths_Last_Week_Per_Million": 23.11,
   "Deaths_New": 0,
   "Deaths_New_Per_Million": 0.0,
   "Deaths_Per_Cases": 0.005,
-  "Deaths_Per_Cases_Last_Week": 0.002,
-  "Deaths_Per_Million": 2484
+  "Deaths_Per_Cases_Last_Week": 0.004,
+  "Deaths_Per_Million": 2495
  },
  {
   "Cases": 41226,
@@ -21584,7 +21584,28 @@
   "Cases_Per_Million": 476358,
   "Date": "2022-10-26",
   "Days_Since_2nd_Death": 935,
-  "Deaths": 215,
+  "Deaths": 216,
+  "Deaths_Last_Week": 2,
+  "Deaths_Last_Week_7Day_Percent": 0,
+  "Deaths_Last_Week_Per_Million": 23.11,
+  "Deaths_New": 0,
+  "Deaths_New_Per_Million": 0.0,
+  "Deaths_Per_Cases": 0.005,
+  "Deaths_Per_Cases_Last_Week": 0.004,
+  "Deaths_Per_Million": 2495
+ },
+ {
+  "Cases": 41312,
+  "Cases_Last_Week": 463,
+  "Cases_Last_Week_7Day_Percent": -37.3,
+  "Cases_Last_Week_Per_100000": 534.9,
+  "Cases_Last_Week_Per_Million": 5349,
+  "Cases_New": 86,
+  "Cases_New_Per_Million": 993,
+  "Cases_Per_Million": 477352,
+  "Date": "2022-10-27",
+  "Days_Since_2nd_Death": 936,
+  "Deaths": 216,
   "Deaths_Last_Week": 1,
   "Deaths_Last_Week_7Day_Percent": 0,
   "Deaths_Last_Week_Per_Million": 11.55,
@@ -21592,6 +21613,6 @@
   "Deaths_New_Per_Million": 0.0,
   "Deaths_Per_Cases": 0.005,
   "Deaths_Per_Cases_Last_Week": 0.002,
-  "Deaths_Per_Million": 2484
+  "Deaths_Per_Million": 2495
  }
 ]
